@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3216],{53216:function(n,e,r){r.r(e),r.d(e,{default:function(){return i}});var c=r(85893),t=r(67294),u=r(77985),o=r(85476);function i(n){var e=n.children,r=(0,t.useMemo)((function(){return o.I_.map((function(n){var e=n.hooks;return[n.connector,e]}))}),[]);return(0,c.jsx)(u.Web3ReactProvider,{connectors:r,children:e})}}}]);
+//# sourceMappingURL=3216.e7780da54590e669.js.map
