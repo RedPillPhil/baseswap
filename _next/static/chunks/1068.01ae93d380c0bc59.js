@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1068],{41068:function(e,n,c){c.r(n);var u=c(85893),r=c(4318),i=c(76900);n.default=function(){return(0,u.jsx)(r.Z,{flexDirection:"column",children:(0,u.jsx)(i.EH,{children:"Swap"})})}}}]);
+//# sourceMappingURL=1068.01ae93d380c0bc59.js.map
